@@ -593,6 +593,18 @@
       "prompt": "text"
     }
   },
+  "financial_news_text": {
+    "file_name": "partial_concatenated_news_data.json",
+    "columns": {
+      "prompt": "text"
+    }
+  },
+  "financial_news_text_60": {
+    "file_name": "/data/hh/FMLLM/data/chunk_60.json",
+    "columns": {
+      "prompt": "text"
+    }
+  },
   "refinedweb": {
     "hf_hub_url": "tiiuae/falcon-refinedweb",
     "columns": {
